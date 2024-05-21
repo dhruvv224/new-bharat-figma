@@ -351,7 +351,7 @@ About Us</div>
    </div>
       <div className='footer text-white py-5 mt-5'>
         <div className='container'>
-          hello
+          
           <div className='row'>
             <div className='col-md-4 mb-3'>
               <h2 id='footer-company'>New Bharat</h2>
